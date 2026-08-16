@@ -1,0 +1,13 @@
+# Archivos temporales y logs
+*.log
+*.tmp
+
+# Binarios y ejecutables compilados
+*.exe
+*.out
+a.out
+
+# Entornos virtuales y dependencias
+env/
+venv/
+node_modules/
